@@ -7,9 +7,7 @@
 ### Environment : Ubuntu Linux 18.04 LTS 
 
 
-##  
 ## Functions of toy-shell
-##  
 ~~~
 - exit : terminate toy-shell.
 
